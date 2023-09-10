@@ -1,0 +1,20 @@
+.project {
+  border-radius: 5px;
+  width: 25%;
+  height: 100px;
+  margin: 30px;
+  background-color: white;
+  box-shadow: 0 0 3px gray;
+  padding: 12px;
+}
+
+.project .heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project .heading h5,
+.project p,
+.project h1 {
+  margin: 0;
+}

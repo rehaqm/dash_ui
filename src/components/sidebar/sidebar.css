@@ -1,0 +1,11 @@
+.sidebar-wrapper {
+  background-color: #212b36;
+  padding: 1rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.sidebar-wrapper h1 {
+  color: white;
+}
